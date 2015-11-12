@@ -1,4 +1,5 @@
-What should work in first version of the project and what functionality could be added later?
+#### Task 02
+###### What should work in first version of the project and what functionality could be added later?
 
 My ideas for the moment:
 
