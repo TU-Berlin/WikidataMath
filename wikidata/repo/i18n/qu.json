@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"AlimanRuna",
+			"Macofe"
+		]
+	},
+	"wikibase-desc": "Allichasqa willakunayuq hallch'a",
+	"wikibase-edit": "llamk'apuy",
+	"wikibase-save": "waqaychay",
+	"wikibase-cancel": "ama niy",
+	"wikibase-add": "yapay",
+	"wikibase-label-empty": "Huqari qillqaqa manam sut'ichasqachu",
+	"wikibase-description-empty": "T'iktunaqa manam sut'ichasqachu",
+	"wikibase-statements": "Atiqllakuna",
+	"wikibase-sitelinks-special": "Huk tiyaykuna",
+	"wikibase-remove": "qichuy",
+	"wikibase-aliases-empty": "Huqari qillqakunaqa manam sut'ichasqachu",
+	"wikibase-statementview-rank-normal": "Chhasku ñiqi",
+	"wikibase-statementview-referencesheading-pendingcountersubject": "{{PLURAL:$1|willay pukyu|willay pukyukuna}}",
+	"wikibase-itembytitle-lookup-page": "P'anqa:",
+	"wikibase-modifyterm-language": "Rimay tuyru:",
+	"wikibase-dispatchstats-change-timestamp": "Pacha q'illpay"
+}

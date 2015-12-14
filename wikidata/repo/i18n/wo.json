@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ibou"
+		]
+	},
+	"wikibase-edit": "soppi",
+	"wikibase-add": "yokk",
+	"wikibase-label-empty": "Xamaleesufi genn tafaan.",
+	"wikibase-description-empty": "Amul genn faramfàcce gees fi xamale",
+	"wikibase-statements": "Kàddu",
+	"wikibase-sitelinks-special": "Yeneeni dal",
+	"wikibase-aliases-empty": "Xamaleesufi genn turandoo.",
+	"wikibase-statementview-referencesheading-pendingcountersubject": "{{PLURAL:$1|delluwaay}}"
+}

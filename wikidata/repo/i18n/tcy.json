@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"VASANTH S.N.",
+			"రహ్మానుద్దీన్",
+			"Vishwanatha Badikana"
+		]
+	},
+	"wikibase-edit": "ಸಂಪೊಲಿಪುಲೆ",
+	"wikibase-add": "ಸೇರ್ಸಾಲೆ",
+	"wikibase-label-empty": "ಲೇಬಲ್ ಉಲ್ಲೇಕೊ ಆತ್‍ಜಿ",
+	"wikibase-description-empty": "ವಿವರನೆ ಇದ್ಯಾಂತೆ ವಿವರಿಸದ್ ಆತ್ಂಡ್",
+	"wikibase-statementsection-statements": "ಪಾತೆರೊಲು",
+	"wikibase-sitelinks-special": "ಬೇತೆ ತಾನೊಲು",
+	"wikibase-aliases-empty": "ಅಲಿಯಾಸ್‍ನ್ ವಿವರಿಸವೊಡುಂದು ಇದ್ದಿ.",
+	"wikibase-statementview-rank-normal": "ಸಾದಾರಣೊ ಶ್ರೇಣಿ",
+	"wikibase-statementview-referencesheading-pendingcountersubject": "{{PLURAL:$1|ಉಲ್ಲೇಕೊ|ಉಲ್ಲೇಕೊಲು}}"
+}

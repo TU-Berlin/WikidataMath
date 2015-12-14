@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Leeheonjin"
+		]
+	},
+	"wikibase-entity": "entidad",
+	"wikibase-entitytermsview-entitytermsforlanguagelistview-toggler": "King aliwa pang amanu/pamyalita",
+	"wikibase-entitytermsview-entitytermsforlanguagelistview-configure-link-label": "Alilan (i-konpigura)",
+	"wikibase-entitytermsforlanguagelistview-aliases": "Awsan da muring",
+	"wikibase-entitytermsforlanguagelistview-description": "Deskripsyun",
+	"wikibase-entitytermsforlanguagelistview-language": "Amanu/Pamyalita",
+	"wikibase-itemdisambiguation-lookup-language": "Amanu-kodigu (language code)",
+	"wikibase-setlabeldescriptionaliases-description-label": "Pamilarawan (deskripsyun)",
+	"wikibase-modifyterm-language": "Amanu-kodigu (language code)",
+	"wikibase-listproperties-all": "Deng eganaganang uri ning data",
+	"wikibase-listproperties-submit": "Mayintun",
+	"wikibase-entitieswithoutlabel-label-language": "Amanu-kodigu (language code)",
+	"special-redirectentity": "I-redirekta ing entidad",
+	"wikibase-redirectentity-submit": "Redirekta",
+	"apihelp-query+wbsearch-param-search": "Maintun para king tekstung ini.",
+	"apihelp-query+wbsearch-param-language": "Maintun king amanung/pamiyalitang ini."
+}
